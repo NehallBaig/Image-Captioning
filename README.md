@@ -1,1 +1,1 @@
-# imagecaptioning-Flask
+# Image captioning
